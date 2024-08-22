@@ -10,7 +10,16 @@
 10. lalalala
 11. eleven
 12. twelve
+<<<<<<< HEAD
 13. thirteen
 14. Test
 15. andy was here
 16. not andy
+=======
+13. andy was here
+14. not andy
+15. huehueeuheuhue
+16. awokawokawokwaqok
+17. asdjkansdjkasdn
+18. sadasdsadsada
+>>>>>>> main
