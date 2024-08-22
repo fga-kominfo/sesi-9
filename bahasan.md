@@ -10,4 +10,14 @@
 10. lalalala
 11. eleven
 12. twelve
+<<<<<<< HEAD
 13. thirteen
+=======
+<<<<<<< HEAD
+13. Brilliant hehehe
+14. Test
+=======
+13. andy was here
+14. not andy
+>>>>>>> be60e9497bbd8c8bb44d285ad57ff30cf3c2890e
+>>>>>>> 7098ac4964fbc0ff8e1cc90dc6b573674219238a
