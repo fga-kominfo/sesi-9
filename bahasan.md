@@ -12,4 +12,3 @@
 12. twelve
 13. andy was here
 14. not andy
-15. tutorial bernafas bagi pemula: https://www.youtube.com/watch?v=Gr7lyPTJBZE
